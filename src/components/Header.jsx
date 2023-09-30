@@ -452,9 +452,10 @@ export default function Example() {
                   <a href="#" className="lg:hidden">
                     <span className="sr-only">Your Company</span>
                     <img
+                      className="my-2 "
                       src="https://i.ibb.co/MgrYJgc/1600w-aa3-QJj-Lz-Ov4-1.png"
                       alt=""
-                      className="h-8 w-auto"
+                      style={{ width: 100 }}
                     />
                   </a>
 
