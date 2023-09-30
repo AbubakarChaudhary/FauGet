@@ -20,22 +20,24 @@ export default function Testimonial() {
             </svg>
             <blockquote className="text-xl font-semibold leading-8 text-gray-900 sm:text-2xl sm:leading-9">
               <p>
-                Commodo amet fugiat excepteur sunt qui ea elit cupidatat ullamco
-                consectetur ipsum elit consequat. Elit sunt proident ea nulla ad
-                nulla dolore ad pariatur tempor non. Sint veniam minim et ea.
+                I am proud to lead a team that is passionate about creating
+                fashion that goes beyond trends. Our commitment to quality and
+                innovation sets us apart in the world of clothing.
               </p>
             </blockquote>
           </div>
           <div className="col-end-1 w-16 lg:row-span-4 lg:w-72">
             <img
               className="rounded-xl bg-indigo-50 lg:rounded-3xl"
-              src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=576&h=576&q=80"
+              src="https://media.licdn.com/dms/image/D4D03AQF6JGnIF69B0g/profile-displayphoto-shrink_800_800/0/1682032714067?e=1701302400&v=beta&t=2jdWl-xskibTIzEMK1ggo2MWEglz4xu6vUHZ_n6wwug"
               alt=""
             />
           </div>
           <figcaption className="text-base lg:col-start-1 lg:row-start-3">
-            <div className="font-semibold text-gray-900">Judith Black</div>
-            <div className="mt-1 text-gray-500">CEO of Workcation</div>
+            <div className="font-semibold text-gray-900">
+              Abubakar Chaudhary
+            </div>
+            <div className="mt-1 text-gray-500">CEO of FauGet</div>
           </figcaption>
         </figure>
       </div>
